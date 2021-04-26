@@ -1,2 +1,4 @@
 # SaanityBot
-Trash Bot made with js 
+Dank Commands ↓
+              
+              §ping
