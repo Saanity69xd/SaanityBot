@@ -1,5 +1,5 @@
 # SaanityBot
-Dank Commands ↓ (BOT NOT FINISHED YET)
+              Dank Commands ↓ ( Prefix is "§" and "~" also works for the 2 people who dont have §)
               
               §ping                  | Reacts with Pong, if the bot is in the channel
               §pingme                | Pings you 4HEad
