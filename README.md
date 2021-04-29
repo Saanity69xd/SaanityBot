@@ -13,4 +13,4 @@
                        §kbemotes (channel)    | Brings you to the Kunszgbot-Website where you can see all ffz/bttv emotes that ever got removed/added
                        §ytsearch (text)       | Searches for a youtube video
                        §twitchsearch          | Searches for a twitch stream
-                       §twittersearcg         | Searches for a twitter user
+                       §twittersearch         | Searches for a twitter user
