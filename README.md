@@ -12,9 +12,9 @@
                        gfmd                   | Reacts with Good Fucking Morning Dankers FeelsDankMan / 
                        §kbemotes (channel)    | Brings you to the Kunszgbot-Website where you can see all ffz/bttv emotes that ever got removed/added
                        §ytsearch (text)       | Searches for a youtube video
-                       §twitchsearch          | Searches for a twitch stream
-                       §twittersearch         | Searches for a twitter user
-                       §ffzuser               | Brings you to the ffz site where you can see all emotes the channel has enabled 
+                       §twitchsearch (text)   | Searches for a twitch stream
+                       §twittersearch (text)  | Searches for a twitter user
+                       §ffzuser (channel)     | Brings you to the ffz site where you can see all emotes the channel has enabled 
                        
                        If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
