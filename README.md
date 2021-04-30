@@ -14,6 +14,7 @@
                        §ytsearch (text)       | Searches for a youtube video
                        §twitchsearch          | Searches for a twitch stream
                        §twittersearch         | Searches for a twitter user
+                       §ffzuser               | Brings you to the ffz site where you can see all emotes the channel has enabled 
                        
                        If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
