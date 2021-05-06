@@ -17,6 +17,7 @@
     §ffzuser (channel)        | Brings you to the ffz site where you can see all emotes the channel has enabled 
     §ffzsubmissions (channel) | Brings you to the ffz site where you can see all emotes the channel has submitted
     gfnd                      | Reacts with Good fucking night danks FeelsDankMan 👉 🛏 
+    §dank (user)              | Dank someone
                       
     If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
