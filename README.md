@@ -11,12 +11,11 @@
     §ffzsearch (emote)        | Searches for a ffzemote
     gfmd                      | Reacts with Good Fucking Morning Dankers FeelsDankMan / 
     §kbemotes (channel)       | Brings you to the Kunszgbot-Website where you can see all ffz/bttv emotes that ever got removed/added
-    §ytsearch (text)          | Searches for a youtube video
+    §following (user)         | Brings you to the twitch-following site where you can see all people the user is following
     §twitchsearch (text)      | Searches for a twitch stream
     §twittersearch (text)     | Searches for a twitter user
     §ffzuser (channel)        | Brings you to the ffz site where you can see all emotes the channel has enabled 
     §ffzsubmissions (channel) | Brings you to the ffz site where you can see all emotes the channel has submitted
-    §following (user)         | Brings you to the twitch-following site where you can see all people the user is followiing
-                       
+                      
     If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
