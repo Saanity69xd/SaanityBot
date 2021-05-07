@@ -19,6 +19,7 @@
     gfnd                      | Reacts with Good fucking night danks FeelsDankMan 👉 🛏 
     §dank (user)              | Dank someone
     §botsubs                  | Shows all channels SaanityBot is currently subbed to 
+    §say (text)               | Says the given text by you
                       
     If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
