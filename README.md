@@ -20,7 +20,7 @@
     §dank (user)              | Dank someone
     §botsubs                  | Shows all channels SaanityBot is currently subbed to 
     §say (text)               | Says the given text by you
-    §dick                     | YEP COCK
+    §dick                     | Try it pepeLaugh (Bot needs VIP/Mod for this command)
                       
     If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
