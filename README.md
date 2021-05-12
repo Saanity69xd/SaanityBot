@@ -21,6 +21,7 @@
     §botsubs                  | Shows all channels SaanityBot is currently subbed to 
     §say (text)               | Says the given text by you
     §dick                     | Try it pepeLaugh (Bot needs VIP/Mod for this command)
+    §modlookup (user)         | Shows all channels the user has moderator rights in
                       
     If you want the bot added to your channel, remind Saan1ty in chat : ) 
 
