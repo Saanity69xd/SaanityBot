@@ -1,6 +1,6 @@
 # SaanityBot
 
-    Dank Commands ↓ ( Prefix is "§" and "~" also works for the 2 people who dont have §)
+    Dank Commands ↓ (Prefixes are "§" and "~")
               
     §ping                     | Reacts with Pong, if the bot is in the channel
     §pingme                   | Pings you 4HEad
@@ -24,5 +24,5 @@
     §modlookup (user)         | Shows all channels the user has moderator rights in
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
                       
-    If you want the bot added to your channel, remind Saan1ty in chat : ) 
+    If you want the bot added to your channel, remind Saan1ty in chat :) 
 
