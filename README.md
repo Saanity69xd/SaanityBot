@@ -20,7 +20,7 @@
     §dank (user)              | Dank someone
     §botsubs                  | Shows all channels SaanityBot is currently subbed to 
     §say (text)               | Says the given text by you
-    §dick                     | Try it pepeLaugh (Bot needs VIP/Mod for this command)
+    §dick                     | Longjerk
     §modlookup (user)         | Shows all channels the user has moderator rights in
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
                       
