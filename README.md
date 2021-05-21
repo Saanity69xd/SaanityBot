@@ -19,7 +19,6 @@
     gfnd                      | Reacts with Good fucking night danks FeelsDankMan 👉 🛏 
     §dank (user)              | Dank someone
     §botsubs                  | Shows all channels SaanityBot is currently subbed to 
-    §say (text)               | Says the given text by you
     §dick                     | Longjerk
     §modlookup (user)         | Shows all channels the user has moderator rights in
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
