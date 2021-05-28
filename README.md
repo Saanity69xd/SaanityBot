@@ -22,6 +22,7 @@
     §dick                     | Longjerk
     §modlookup (user)         | Shows all channels the user has moderator rights in
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
+    §chatters                 | Shows the Viewerlist
                       
     If you want the bot added to your channel, remind Saan1ty in chat :) 
 
