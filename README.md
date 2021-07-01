@@ -1,5 +1,5 @@
 # SaanityBot
-
+    !!! The bot´s twitch name is now "triangBOT" !!!
     Dank Commands ↓ (Prefixes are "§" and "~")
               
     §ping                     | Reacts with Pong, if the bot is in the channel
@@ -23,6 +23,7 @@
     §modlookup (user)         | Shows all channels the user has moderator rights in
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
     §chatters (Channel)       | Shows the Viewerlist
+    § triangD                 | TURTLERUSHING
                       
     If you want the bot added to your channel, remind Saan1ty in chat :) 
 
