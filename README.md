@@ -24,6 +24,6 @@
     §cssffzsearch (emote)     | Searches for a ffzemote with the Case-Sensitive Search filter
     §chatters (Channel)       | Shows the Viewerlist
     § triangD                 | TURTLERUSHING
-                      
+    §copypastas (channel)     | Shows the Copypastas of the named channel on the TwitchQuotes site            
     If you want the bot added to your channel, remind Saan1ty in chat :) 
 
